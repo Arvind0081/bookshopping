@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookShoppingProject", "BookShoppingProject\BookShoppingProject.csproj", "{92A9FC4D-C094-42B2-BB44-F8D5D5897C66}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookShoppingProject.DataAccess", "BookShoppingProject.DataAccess\BookShoppingProject.DataAccess.csproj", "{5669E2AB-8811-412E-9AC9-E1CB61ACE174}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookShoppingProject.Model", "BookShoppingProject.Model\BookShoppingProject.Model.csproj", "{EB03707E-6B11-4499-8B89-E5B36502DF8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookShoppingProject.Utility", "BookShoppingProject.Utility\BookShoppingProject.Utility.csproj", "{D8F43DDE-CD57-4491-A36F-3D4AEF34C9CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4D3A06D0-BB1A-4178-A500-51805F6A31A7}"
+	ProjectSection(SolutionItems) = preProject
+		CartDesign.txt = CartDesign.txt
+		OrderSummary.txt = OrderSummary.txt
+		ProductCustomerHomeDesign.txt = ProductCustomerHomeDesign.txt
+		ProductDetailAddToCartDesign.txt = ProductDetailAddToCartDesign.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92A9FC4D-C094-42B2-BB44-F8D5D5897C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A9FC4D-C094-42B2-BB44-F8D5D5897C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A9FC4D-C094-42B2-BB44-F8D5D5897C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A9FC4D-C094-42B2-BB44-F8D5D5897C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5669E2AB-8811-412E-9AC9-E1CB61ACE174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5669E2AB-8811-412E-9AC9-E1CB61ACE174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5669E2AB-8811-412E-9AC9-E1CB61ACE174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5669E2AB-8811-412E-9AC9-E1CB61ACE174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB03707E-6B11-4499-8B89-E5B36502DF8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB03707E-6B11-4499-8B89-E5B36502DF8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB03707E-6B11-4499-8B89-E5B36502DF8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB03707E-6B11-4499-8B89-E5B36502DF8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F43DDE-CD57-4491-A36F-3D4AEF34C9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F43DDE-CD57-4491-A36F-3D4AEF34C9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F43DDE-CD57-4491-A36F-3D4AEF34C9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F43DDE-CD57-4491-A36F-3D4AEF34C9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2F830D5-8DEA-4134-9FAB-2DDADF8AD362}
+	EndGlobalSection
+EndGlobal

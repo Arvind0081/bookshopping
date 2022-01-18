@@ -1,0 +1,27 @@
+﻿<br />
+<div class="row">
+    <div class="col-9">
+        <h2 class="text-primary">User List</h2>
+    </div>
+    <div class="col-3">
+        <a class="btn btn-success" asp-area="Identity" asp-page="/Account/Register"><i class="far fa-plus-square"></i>&nbsp;Create User</a>
+    </div>
+</div>
+<div class="border p-2 m-2">
+    <table id="tblData" class="table table-striped table-bordered">
+        <thead class="bg-dark text-white text-center">
+            <tr class="table-hover">
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone Number</th>
+                <th>Company</th>
+                <th>Role</th>
+                <th></th>
+            </tr>
+        </thead>
+    </table>
+</div>
+@section scripts
+{
+<script src="~/js/User.js"></script>
+}

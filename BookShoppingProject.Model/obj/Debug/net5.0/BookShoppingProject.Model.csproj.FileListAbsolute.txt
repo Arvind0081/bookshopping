@@ -1,0 +1,11 @@
+F:\ASP.NET_MVC_WEBAPI_EF\A_MVC_VS2019\BookShoppingProject\BookShoppingProject.Model\bin\Debug\net5.0\BookShoppingProject.Model.deps.json
+F:\ASP.NET_MVC_WEBAPI_EF\A_MVC_VS2019\BookShoppingProject\BookShoppingProject.Model\bin\Debug\net5.0\BookShoppingProject.Model.dll
+F:\ASP.NET_MVC_WEBAPI_EF\A_MVC_VS2019\BookShoppingProject\BookShoppingProject.Model\bin\Debug\net5.0\ref\BookShoppingProject.Model.dll
+F:\ASP.NET_MVC_WEBAPI_EF\A_MVC_VS2019\BookShoppingProject\BookShoppingProject.Model\bin\Debug\net5.0\BookShoppingProject.Model.pdb
+F:\ASP.NET_MVC_WEBAPI_EF\A_MVC_VS2019\BookShoppingProject\BookShoppingProject.Model\obj\Debug\net5.0\BookShoppingProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET_MVC_WEBAPI_EF\A_MVC_VS2019\BookShoppingProject\BookShoppingProject.Model\obj\Debug\net5.0\BookShoppingProject.Model.AssemblyInfoInputs.cache
+F:\ASP.NET_MVC_WEBAPI_EF\A_MVC_VS2019\BookShoppingProject\BookShoppingProject.Model\obj\Debug\net5.0\BookShoppingProject.Model.AssemblyInfo.cs
+F:\ASP.NET_MVC_WEBAPI_EF\A_MVC_VS2019\BookShoppingProject\BookShoppingProject.Model\obj\Debug\net5.0\BookShoppingProject.Model.csproj.CoreCompileInputs.cache
+F:\ASP.NET_MVC_WEBAPI_EF\A_MVC_VS2019\BookShoppingProject\BookShoppingProject.Model\obj\Debug\net5.0\BookShoppingProject.Model.dll
+F:\ASP.NET_MVC_WEBAPI_EF\A_MVC_VS2019\BookShoppingProject\BookShoppingProject.Model\obj\Debug\net5.0\ref\BookShoppingProject.Model.dll
+F:\ASP.NET_MVC_WEBAPI_EF\A_MVC_VS2019\BookShoppingProject\BookShoppingProject.Model\obj\Debug\net5.0\BookShoppingProject.Model.pdb
